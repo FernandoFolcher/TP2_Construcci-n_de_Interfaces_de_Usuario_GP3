@@ -99,6 +99,7 @@
 
 .create-post-button:hover {
   background-color: var(--primary-dark);
+  color: white;
   transform: translateY(-3px);
   box-shadow: var(--shadow-lg);
 }
