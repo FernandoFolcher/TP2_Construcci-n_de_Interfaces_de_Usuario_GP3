@@ -1,37 +1,37 @@
 # Trabajo Práctico Numero 2
-# Materia: Construccion de interfaces de usuario
+# Materia: Construcción de interfaces de usuario
 
-Este proyecto es una aplicación web desarrollada con React que permite a las personas usuarias interactuar con un sistema de publicaciones, similar a una red social o foro. La aplicación ofrece varias funcionalidades, como la navegación por publicaciones, la posibilidad de agregar comentarios, registrarse, iniciar sesión y crear sus propios posteos.
+Este proyecto es una aplicación web desarrollada con React que permite a los usuarios interactuar con un sistema de publicaciones, similar a una red social o foro. La aplicación ofrece varias funcionalidades, como la navegación por publicaciones, la posibilidad de agregar comentarios, registrarse, iniciar sesión y crear sus propios posteos.
 
 ## 🚀 Funcionalidades
 
--  Login simulado con localStorage
--  Registro de usuarios
--  Feed de publicaciones estilo Twitter
--  Crear posts con imágenes y etiquetas
--  Sistema de comentarios
--  Perfil de usuario
+-  Login simulado con localStorage.
+-  Registro de usuarios.
+-  Feed de publicaciones estilo Twitter.
+-  Crear posts con imágenes y etiquetas.
+-  Sistema de comentarios.
+-  Perfil de usuario.
 
 ---
 
 ## 🛠️ Tecnologías utilizadas
 
-- React 19 + TypeScript
-- Vite
-- React Router DOM
-- Axios
-- Context API
+- React 19 + TypeScript.
+- Vite.
+- React Router DOM.
+- Axios.
+- Context API.
 - CSS3 (responsive)
 
 ---
 
 ## 📊 Datos de Prueba
 El seed incluye:
-- 6 usuarios con diferentes perfiles
-- 12 publicaciones variadas con emojis
+- 6 usuarios con diferentes perfiles.
+- 12 publicaciones variadas con emojis.
 - 7 etiquetas (#arte, #tecnologia, #naturaleza, etc.)
 - 14 imágenes reales (de picsum.photos)
-- 19 comentarios
+- 19 comentarios.
 
 ---
 
